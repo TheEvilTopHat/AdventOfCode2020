@@ -75,4 +75,3 @@ with open("input.txt", "r") as f:
     print("----------")
     print("invalid", invalid)
     print("valid", valid)
-    
